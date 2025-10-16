@@ -29,10 +29,4 @@ Short, minimal backend for a product-focused chatbot built with FastAPI. Provide
     python -m uvicorn app.main:app --reload
 
 6. Open the API docs:
-    - http://localhost:8000/docs (Swagger)
-
-## Tests & linting
-- Run tests (if present):
-  pytest
-- Linting (if configured):
-  flake8 or black .
+    - http://127.0.0.1:8000/docs#
